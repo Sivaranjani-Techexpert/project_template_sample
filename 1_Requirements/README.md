@@ -3,7 +3,7 @@ Passenger-Side Power Window System - Project Requirements
 ### 1. High-Level Requirements (HLR)
 The following high-level requirements describe the functionality expected from the passenger-side power window system:
 
-1. **Window Control**  
+1. Window Control  
    The passenger should be able to operate the power window (up and down) using a switch located on the passenger door.
 
 2. **Auto-Down Feature**  
